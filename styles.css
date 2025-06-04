@@ -1,0 +1,60 @@
+body {
+    background-color: aliceblue;
+}
+
+
+.Post {
+    background-color: white;
+    margin: 150px auto;
+    height: 500px;
+    width: 350px;
+
+}
+
+
+.Post-header {
+    height: 40px;
+    display: flex;
+    padding: 10px 10px 0 10px;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+.options {
+    font-size: 20px;
+    margin: 0 5px 0 auto;
+}
+
+
+.Post-icons {
+    display: flex;
+    margin: 2px;
+    flex-flow: row;
+    flex-wrap: wrap;
+}
+
+.icons {
+    font-size: 17px;
+    margin: 3px;
+}
+
+.logohtml {
+    font-size: 40px;
+}
+
+.content-multimedia {
+    height: 200px;
+    width: 100%;
+    margin: 10px 2px;
+    object-fit: cover;
+    object-position: top;
+}
+
+p {
+    margin: 10px 2px;
+}
+
+.icons4 {
+    margin: 0 5px 0 auto;
+}
